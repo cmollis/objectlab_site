@@ -350,9 +350,9 @@ table {
 
 	.logo {
 		background-image: url(../images/ol-logo@2x.png); /* actual image size = 616 × 584 */
-		background-size: 290px 275px;
-		width:290px;
-		height: 275px;
+		background-size: 250px 238px;
+		width:250px;
+		height:238px;
    	}
 
 /***** End *****/
@@ -363,9 +363,9 @@ table {
 
 .logo {
 		background-image: url(../images/ol-logo@2x.png); /* actual image size = 616 × 584 */
-		background-size: 290px 275px;
-		width:290px;
-		height: 275px;
+		background-size: 250px 238px;
+		width:250px;
+		height:238px;
    	}
 
 }
