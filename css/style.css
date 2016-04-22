@@ -349,10 +349,10 @@ table {
 /***** Retina displays *****/
 
 	.logo {
-		background-image: url(../images/ol-logo@2x.png); /* actual image size = 930px by 204px */
-		background-size:475px 102px;
-	  width:475px;
-		height:102px;
+		background-image: url(../images/ol-logo@2x.png); /* actual image size = 616 × 584 */
+		background-size: 290px 275px;
+		width:290px;
+		height: 275px;
    	}
 
 /***** End *****/
@@ -362,10 +362,10 @@ table {
 /***** iPhone portrait (300px) *****/
 
 .logo {
-		background-image: url(../images/ol-logo@2x.png); /* actual image size = 930px by 204px */
-		background-size:616px 584px;
-	  width:616px;
-		height:584px;
+		background-image: url(../images/ol-logo@2x.png); /* actual image size = 616 × 584 */
+		background-size: 290px 275px;
+		width:290px;
+		height: 275px;
    	}
 
 }
